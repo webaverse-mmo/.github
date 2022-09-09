@@ -20,17 +20,16 @@ Webaverse is an extremely ambitious open source project that has recently attrac
 
 Here's our mission:
 
-(1) First install a local copy of the [Webaverse app](https://github.com/webaverse/app)
-(2) Then join the Webaverse MMO [Dework space](https://app.dework.xyz/i/13kT8ysbehnPaLySchg37N)
-(3) Pick a project task on the [bounty board](https://app.dework.xyz/webaverse/board/view/bounty-boards-l7gvwv59)
-(4) Clone and test the [project](https://github.com/webaverse-mmo), report any bugs to the `UPSTREAM` issue tracker
-(5) Write a README for the project ([see examples](https://github.com/decentraland-scenes/Awesome-Repository#examples) of good READMEs)
-(6) Submit work: either drag n' drop `README.md` to Dework, link to a [hackmd](https://hackmd.io/), or make a PR on Github to the assigned webaverse-mmo repo
+1) First install a local copy of the [Webaverse app](https://github.com/webaverse/app)
+2) Then join the Webaverse MMO [Dework space](https://app.dework.xyz/i/13kT8ysbehnPaLySchg37N)
+3) Pick a project task on the [bounty board](https://app.dework.xyz/webaverse/board/view/bounty-boards-l7gvwv59)
+4) Clone and test the [project](https://github.com/webaverse-mmo), report any bugs to the `UPSTREAM` issue tracker
+5) Write a README for the project ([see examples](https://github.com/decentraland-scenes/Awesome-Repository#examples) of good READMEs)
+6) Submit work: either drag n' drop `README.md` to Dework, link to a [hackmd](https://hackmd.io/), or make a PR on Github to the assigned webaverse-mmo repo
 
 
-:::info
-Here's a [**HackMD template**](https://hackmd.io/@XR/readme-template/edit) that you can copy and use as a guide for the READMEs. If you're new to HackMD then [**click here**](https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-use-template) to learn how to use templates.
-:::
+> Here's a [**HackMD template**](https://hackmd.io/@XR/readme-template/edit) that you can copy and use as a guide for the READMEs. If you're new to HackMD then [**click here**](https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-use-template) to learn how to use templates.
+
 
 ![](https://i.imgur.com/EAlUIVi.png)
 

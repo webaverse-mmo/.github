@@ -4,15 +4,20 @@ Welcome traveler! Our current mission is to work together on improving the templ
 
 
 ![](https://i.imgur.com/lO7KmHk.jpg)
-
-
+<div align="center">
+  <a href="https://hackmd.io/@xr/webaverse-mmo">Handbook</a>
+  &mdash;
+  <a href="https://app.dework.xyz/webaverse">Dework</a>
+  &mdash;
+  <a href="https://discord.gg/webaverse">Discord</a>
+</div>
 
 
 **Mission overview**
 
 > Note: Having a [Github](https://github.com/) account is a requirement to participate
 
-Webaverse is an extremely ambitious open source project that has recently attracted tons of interest in how to start building with it. Problem is, many of the open source repos lack READMEs and there are different versions of the docs which all together makes it confusing to get started:
+Many of the open source repos are missing `README` files and there are different versions of the docs which makes it confusing to get started for new builders:
 
 | ![](https://i.imgur.com/Xal8r3V.jpg) | ![](https://i.imgur.com/THCh3FB.jpg) | ![](https://i.imgur.com/74dPaJ4.jpg) |
 | -------- | -------- | -------- |
@@ -24,7 +29,7 @@ Here's our mission:
 2) Then join the Webaverse MMO [Dework space](https://app.dework.xyz/i/13kT8ysbehnPaLySchg37N)
 3) Pick a project task on the [bounty board](https://app.dework.xyz/webaverse/board/view/bounty-boards-l7gvwv59)
 4) Clone and test the [project](https://github.com/webaverse-mmo), report any bugs to the `UPSTREAM` issue tracker
-5) Write a README for the project ([see examples](https://github.com/decentraland-scenes/Awesome-Repository#examples) of good READMEs)
+5) Write a README for the project ([see docs](https://hackmd.io/@XR/webaverse-mmo/https%3A%2F%2Fhackmd.io%2F%40XR%2Fcreate-readme) on how to make a good README.md)
 6) Submit work: either drag n' drop `README.md` to Dework, link to a [hackmd](https://hackmd.io/), or make a PR on Github to the assigned webaverse-mmo repo
 
 
